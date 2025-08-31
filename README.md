@@ -5,3 +5,4 @@ This repo is for practicing Git basics: staging, commits, push, pull, and branch
 - Explored branching strategies: main, dev, feature/*  
 
 - Practiced making second commit
+- Practiced making third commit
