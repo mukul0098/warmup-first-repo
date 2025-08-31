@@ -4,3 +4,4 @@ This repo is for practicing Git basics: staging, commits, push, pull, and branch
 - Understood staging (git add), committing (git commit), and pushing (git push).  
 - Explored branching strategies: main, dev, feature/*  
 
+- Practiced making second commit
